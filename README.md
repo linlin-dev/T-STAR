@@ -47,7 +47,7 @@ We construct T-STAR, the first large-scale dataset for spatio-temporal panoptic 
 <summary><b>Relationship</b></summary>
 
 <p align="center">
-  <img src="demo/Relationship.jng" alt="Relationship statistics and visualization" width="98%"/>
+  <img src="demo/Relationship.jpg" alt="Relationship statistics and visualization" width="98%"/>
 </p>
 
 <p align="left">
