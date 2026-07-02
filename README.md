@@ -2,9 +2,15 @@
 
 
 
-## 📝  TPSG Task in Satellite Video
+## 📝 TPSG Task
+
 <p align="center">
-<img src="demo/TPSGdemo.mp4" alt="scatter" width="98%"/> 
+  <video src="demo/TPSGdemo.mp4" width="98%" controls>
+  </video>
+</p>
+
+<p align="center">
+  <em>Illustration of spatio-temporal panoptic scene graph generation (TPSG) in satellite video.</em>
 </p>
 
 
