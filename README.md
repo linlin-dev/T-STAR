@@ -8,7 +8,7 @@ Given a satellite video sequence, TPSG aims to generate triplets 〈subject, rel
 
 <p align="center">
   <video width="98%" controls>
-    <source src="[https://github.com/user-attachments/assets/b7b6b1a1-86b4-4e0b-9189-81827e6d5242](https://github.com/user-attachments/assets/b7b6b1a1-86b4-4e0b-9189-81827e6d5242)" type="video/mp4">
+    <source src="https://github.com/user-attachments/assets/b7b6b1a1-86b4-4e0b-9189-81827e6d5242" type="video/mp4">
     Your browser does not support the video tag.
   </video>
 </p>
