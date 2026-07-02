@@ -9,11 +9,8 @@ Given a satellite video sequence, TPSG aims to generate triplets 〈subject, rel
 <p align="center">
   <video src="https://github.com/user-attachments/assets/b7b6b1a1-86b4-4e0b-9189-81827e6d5242" width="98%" controls muted>
     Your browser does not support the video tag.
-  </video>
-</p>
-
-<p align="center">
-  <sub><em>Illustration of spatio-temporal panoptic scene graph generation (TPSG) in satellite video.</em></sub>
+  </video><br>
+  <em>Illustration of spatio-temporal panoptic scene graph generation (TPSG) in satellite video.</em>
 </p>
 
 ## 🔖 T-STAR Dataset
