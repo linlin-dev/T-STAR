@@ -23,7 +23,9 @@ We construct T-STAR, the first large-scale dataset for spatio-temporal panoptic 
 <p align="center">
 <img src="demo/scene.jpg" alt="scatter" width="98%"/> 
 </p>
-
+<p align="center">
+  <em>Representative annotated scenes from the T-STAR dataset.</em>
+</p>
 
 ## 🖊️ Citation
 
