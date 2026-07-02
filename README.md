@@ -24,6 +24,20 @@ We construct T-STAR, the first large-scale dataset for spatio-temporal panoptic 
   <em>Representative annotated scenes from the T-STAR dataset.</em>
 </p>
 
+<p align="center">
+  <img src="demo/object-relationship.png" alt="Representative annotated scenes" width="98%"/>
+</p>
+<p align="left">
+  <em>Statistics and visualization of objects and relationships from the T-STAR dataset.</em>
+</p>
+
+<p align="center">
+  <img src="demo/Obj-Rel Interaction.png" alt="Representative annotated scenes" width="98%"/>
+</p>
+<p align="left">
+  <em>Interaction mapping among subject categories, relationship categories, and object categories.</em>
+</p>
+
 ## 🖊️ Citation
 
 If you find this work helpful for your research, please consider giving this repo a star ⭐ and citing our papers:
