@@ -7,12 +7,10 @@
 Given a satellite video sequence, TPSG aims to generate triplets 〈subject, relationship, object〉 with explicit temporal spans to describe dynamic geospatial scenes by jointly modeling identity-consistent instance masks and spatio-temporal relationships among panoptic scene elements.
 
 <p align="center">
-  <video src="demo/TPSGdemo1.mp4" width="98%" controls>
-  </video>
-</p>
-
-<p align="center">
-  <em>Illustration of spatio-temporal panoptic scene graph generation (TPSG) in satellite video.</em>
+  <a href="demo/TPSGdemo1.mp4">
+    <img src="demo/object-relationship.png" alt="TPSG demo" width="98%"/>
+  </a><br>
+  <sub><em>Illustration of spatio-temporal panoptic scene graph generation (TPSG) in satellite video. Click the image to view the video.</em></sub>
 </p>
 
 
