@@ -17,32 +17,6 @@ Given a satellite video sequence, TPSG aims to generate triplets 〈subject, rel
 
 We construct T-STAR, the first large-scale dataset for spatio-temporal panoptic scene graph generation (TPSG) in satellite video. It contains more than 1.1 million instance masks and over 3.8 million spatio-temporal triplets across 39 fine-grained object categories and 70 fine-grained relationship categories.
 
-<p align="center">
-  <img src="demo/scene.jpg" alt="Representative annotated scenes" width="98%"/>
-</p>
-<p align="left">
-  <em>Representative annotated scenes from the T-STAR dataset.</em>
-</p>
-
-<p align="center">
-  <img src="demo/object-relationship.png" alt="Representative annotated scenes" width="98%"/>
-</p>
-<p align="left">
-  <em>Statistics and visualization of objects and relationships from the T-STAR dataset.</em>
-</p>
-
-<p align="center">
-  <img src="demo/Obj-Rel Interaction.png" alt="Representative annotated scenes" width="98%"/>
-</p>
-<p align="left">
-  <em>Interaction mapping among subject categories, relationship categories, and object categories.</em>
-</p>
-
-
-## 🔖 T-STAR Dataset
-
-We construct T-STAR, the first large-scale dataset for spatio-temporal panoptic scene graph generation (TPSG) in satellite video. It contains more than 1.1 million instance masks and over 3.8 million spatio-temporal triplets across 39 fine-grained object categories and 70 fine-grained relationship categories.
-
 <details open>
 <summary><b>Scenes</b></summary>
 
@@ -60,7 +34,7 @@ We construct T-STAR, the first large-scale dataset for spatio-temporal panoptic 
 <summary><b>Object</b></summary>
 
 <p align="center">
-  <img src="demo/object.png" alt="Object statistics and visualization" width="98%"/>
+  <img src="demo/Object.jpg" alt="Object statistics and visualization" width="98%"/>
 </p>
 
 <p align="left">
@@ -73,7 +47,7 @@ We construct T-STAR, the first large-scale dataset for spatio-temporal panoptic 
 <summary><b>Relationship</b></summary>
 
 <p align="center">
-  <img src="demo/relationship.png" alt="Relationship statistics and visualization" width="98%"/>
+  <img src="demo/Relationship.jng" alt="Relationship statistics and visualization" width="98%"/>
 </p>
 
 <p align="left">
@@ -100,8 +74,6 @@ We construct T-STAR, the first large-scale dataset for spatio-temporal panoptic 
 
 <ul>
   <li><b>T-STAR Dataset:</b> Coming soon.</li>
-  <li><b>Evaluation Server:</b> Coming soon.</li>
-  <li><b>Annotation Files:</b> Coming soon.</li>
 </ul>
 
 </details>
