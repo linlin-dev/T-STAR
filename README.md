@@ -2,18 +2,18 @@
 
 
 
-## 📝 Spatio-Temporal Panoptic Scene Graph Generation (TPSG) task in Satellite Video
+## 📝  TPSG Task in Satellite Video
 <p align="center">
-<img src="demo/HPL-Net.png" alt="scatter" width="98%"/> 
+<img src="demo/TPSGdemo.mp4" alt="scatter" width="98%"/> 
 </p>
 
 
-## 🔖 Dataset
+## 🔖 T-STAR Dataset
 
 We construct T-STAR, the first large-scale dataset for spatio-temporal panoptic scene graph generation(TPSG) in satellite video. Containing  more than  1.1 million instance masks and over 3.8 million spatio-temporal triplets across 39 fine-grained object categories and 70 fine-grained relationship categories.
 
 <p align="center">
-<img src="demo/distr.jpg" alt="scatter" width="98%"/> 
+<img src="demo/scene.jpg" alt="scatter" width="98%"/> 
 </p>
 
 [https://private-user-images.githubusercontent.com/29257168/339049597-2d027f2c-8911-45ba-b4dd-7f95111465a9.mp4](https://private-user-images.githubusercontent.com/29257168/345304070-0d1b8726-5a46-4182-95b9-bc70a050e49b.mp4)
