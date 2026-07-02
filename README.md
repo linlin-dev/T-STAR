@@ -21,9 +21,7 @@ Given a satellite video sequence, TPSG aims to generate triplets 〈subject, rel
 We construct T-STAR, the first large-scale dataset for spatio-temporal panoptic scene graph generation(TPSG) in satellite video. Containing  more than  1.1 million instance masks and over 3.8 million spatio-temporal triplets across 39 fine-grained object categories and 70 fine-grained relationship categories.
 
 <p align="center">
-<img src="demo/scene.jpg" alt="scatter" width="98%"/> 
-</p>
-<p align="center">
+  <img src="demo/scene.jpg" alt="Representative annotated scenes" width="98%"/><br>
   <em>Representative annotated scenes from the T-STAR dataset.</em>
 </p>
 
