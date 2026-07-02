@@ -38,6 +38,75 @@ We construct T-STAR, the first large-scale dataset for spatio-temporal panoptic 
   <em>Interaction mapping among subject categories, relationship categories, and object categories.</em>
 </p>
 
+
+## 🔖 T-STAR Dataset
+
+We construct T-STAR, the first large-scale dataset for spatio-temporal panoptic scene graph generation (TPSG) in satellite video. It contains more than 1.1 million instance masks and over 3.8 million spatio-temporal triplets across 39 fine-grained object categories and 70 fine-grained relationship categories.
+
+<details open>
+<summary><b>Scenes</b></summary>
+
+<p align="center">
+  <img src="demo/scene.jpg" alt="Representative annotated scenes" width="98%"/>
+</p>
+
+<p align="left">
+  <em>Representative annotated scenes from the T-STAR dataset.</em>
+</p>
+
+</details>
+
+<details>
+<summary><b>Object</b></summary>
+
+<p align="center">
+  <img src="demo/object.png" alt="Object statistics and visualization" width="98%"/>
+</p>
+
+<p align="left">
+  <em>Statistics and visualization of objects from the T-STAR dataset.</em>
+</p>
+
+</details>
+
+<details>
+<summary><b>Relationship</b></summary>
+
+<p align="center">
+  <img src="demo/relationship.png" alt="Relationship statistics and visualization" width="98%"/>
+</p>
+
+<p align="left">
+  <em>Statistics and visualization of relationships from the T-STAR dataset.</em>
+</p>
+
+</details>
+
+<details>
+<summary><b>Obj-Rel Interaction</b></summary>
+
+<p align="center">
+  <img src="demo/Obj-Rel%20Interaction.png" alt="Object-relationship interaction mapping" width="98%"/>
+</p>
+
+<p align="left">
+  <em>Interaction mapping among subject categories, relationship categories, and object categories.</em>
+</p>
+
+</details>
+
+<details>
+<summary><b>Download Links</b></summary>
+
+<ul>
+  <li><b>T-STAR Dataset:</b> Coming soon.</li>
+  <li><b>Evaluation Server:</b> Coming soon.</li>
+  <li><b>Annotation Files:</b> Coming soon.</li>
+</ul>
+
+</details>
+
+
 ## 🖊️ Citation
 
 If you find this work helpful for your research, please consider giving this repo a star ⭐ and citing our papers:
