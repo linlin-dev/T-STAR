@@ -9,18 +9,32 @@ Given a satellite video sequence, TPSG aims to generate triplets 〈subject, rel
 <p align="center">
   <video src="https://github.com/user-attachments/assets/b7b6b1a1-86b4-4e0b-9189-81827e6d5242" width="98%" controls muted>
     Your browser does not support the video tag.
-  </video><br>
-  <em>Illustration of spatio-temporal panoptic scene graph generation (TPSG) in satellite video.</em>
+  </video>
 </p>
+
+<table width="98%" align="center">
+  <tr>
+    <td align="justify">
+      <em>Illustration of spatio-temporal panoptic scene graph generation (TPSG) in satellite video.</em>
+    </td>
+  </tr>
+</table>
 
 ## 🔖 T-STAR Dataset
 
-We construct T-STAR, the first large-scale dataset for spatio-temporal panoptic scene graph generation(TPSG) in satellite video. Containing  more than  1.1 million instance masks and over 3.8 million spatio-temporal triplets across 39 fine-grained object categories and 70 fine-grained relationship categories.
+We construct T-STAR, the first large-scale dataset for spatio-temporal panoptic scene graph generation (TPSG) in satellite video. It contains more than 1.1 million instance masks and over 3.8 million spatio-temporal triplets across 39 fine-grained object categories and 70 fine-grained relationship categories.
 
 <p align="center">
-  <img src="demo/scene.jpg" alt="Representative annotated scenes" width="98%"/><br>
-  <em>Representative annotated scenes from the T-STAR dataset.</em>
+  <img src="demo/scene.jpg" alt="Representative annotated scenes" width="98%"/>
 </p>
+
+<table width="98%" align="center">
+  <tr>
+    <td align="justify">
+      <em>Representative annotated scenes from the T-STAR dataset.</em>
+    </td>
+  </tr>
+</table>
 
 ## 🖊️ Citation
 
