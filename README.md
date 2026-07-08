@@ -4,7 +4,7 @@
 
 ## 📝 TPSG Task
 
-Given a satellite video sequence, TPSG aims to generate triplets 〈subject, relationship, object〉 with explicit temporal spans to describe dynamic geospatial scenes by jointly modeling identity-consistent instance masks and spatio-temporal relationships among panoptic scene elements.
+Given a satellite video sequence, TPSG aims to generate a structured graph composed of a set of triplets ⟨subject, relationship, object⟩ with explicit temporal spans, thereby describing dynamic geospatial scenes by jointly modeling identity-consistent instance masks and spatio-temporal relationships among panoptic scene elements.
 
 <p align="center">
   <video src="https://github.com/user-attachments/assets/4301272f-03de-4925-8ce8-633c81f0a949" width="98%" controls muted>
